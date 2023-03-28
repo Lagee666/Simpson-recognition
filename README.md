@@ -1,6 +1,5 @@
 # The Simpsons Characters Recognition Challenge
 
-電機所 110318046 黃裕翔
 
 
 # 目標
